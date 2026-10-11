@@ -10,23 +10,23 @@ I'm Undergraduate Computer System at Gunadarma University with a strong backgrou
 
 <br>
 
-📡 **Networking**
-- Software-Defined Networking (SDN)
-- Network Simulation (Mininet, Open vSwitch, Ryu Controller)
-- Advanced Computer Network Lab Assistant
+📡 **Networking & IoT Edge**
+- **SDN & Simulation:** Mininet, Open vSwitch, Ryu Controller, OpenFlow.
+- **Hardware & Telemetry:** ESP32 (termasuk LoRa), Arduino Uno, Wemos, STM32.
+- **Data Logging & Cloud:** Firebase Realtime Database, ThingSpeak, ESPHome.
+- **Role:** Advanced Computer Network Laboratory Assistant.
 
-🌐 **Web Development**
-- PHP
-- Relational Databases & Management (PostgreSQL, DBeaver, HeidiSQL)
-- Local Web Environment (Laragon)
+🌐 **Web & Mobile Development**
+- **Mobile:** Flutter (Dart), Debugging & Release App Management.
+- **Web & Database:** PHP, PostgreSQL, DBeaver, HeidiSQL, Laragon.
 
-📱 **Mobile Development**
-- Cross-platform Development with Flutter (Dart)
-- Mobile App Debugging & Release Build Management
+🔭 **Featured Projects & Research**
+- **IoT Air Quality Monitoring:** Lead Developer (PKM-KC) untuk sistem pemantauan residensial.
+- **IoT Flood Early Warning System:** Integrasi sensor ultrasonik, flow sensor, dan telemetri Telegram bot.
+- **Microclimate Monitoring:** Sistem otomatisasi lingkungan dengan sensor DHT22 & BH1750.
 
 🛠️ **Tools & Version Control**
-- Git & GitHub
-- Visual Studio Code
+- Git, GitHub, Visual Studio Code, VirtualBox.
 
 ---
 
