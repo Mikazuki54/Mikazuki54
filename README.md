@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 I'm Nicky Tirta Putra Nugroho 
 
 <!--
 **Mikazuki54/Mikazuki54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
