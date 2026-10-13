@@ -32,7 +32,7 @@ I'm Undergraduate Computer System at Gunadarma University with a strong backgrou
 
 ## 🌐 Socials:
 
-- 📸 Instagram: [@nickytirta](https://instagram.com/username_ig_kamu)
+- 📸 Instagram: [@nickytirta](https://instagram.com/nickytirta54)
 - 💼 LinkedIn: [Nicky Tirta Putra Nugroho](https://linkedin.com/in/username_linkedin_kamu)
 
 ---
